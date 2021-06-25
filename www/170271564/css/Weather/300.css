@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Weather';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Weather Icon'), local('Weather-Icon'), url("../../image/fonts/Weather.woff") format('woff');
+}

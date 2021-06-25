@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /print*
+Disallow: /*xiti*
+Disallow: /*/estat
+Sitemap: http://www.gamero-plomberie.fr/gsitemap.xml
